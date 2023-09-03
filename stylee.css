@@ -1,0 +1,31 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    color: rgb(33, 33, 64);
+    background-color: rgba(145, 223, 197, 0.815);
+}
+
+.display-4 {
+    padding-top: 2rem;
+    font-weight: bold;
+    
+}
+
+.container-md {
+    width: 500px;
+    padding-top: 5rem;
+}
+
+.d-flex {
+    font-weight: bold;
+}
+
+
+.container-a {
+    /* width: 700px; */
+    padding-top: 4rem;
+    
+}
